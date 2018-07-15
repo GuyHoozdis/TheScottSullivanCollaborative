@@ -14,3 +14,13 @@ the one named _Scott Sullivan_. I admit that I was quick to judge and now I
 think that was a mistake. It was U.S. District Judge Barbra Jones' job to
 pass judgement. Moreover, he paid for his transgressions. It's time to move
 forward.
+
+
+----
+
+* [LinkedIn Groups FAQ][faq]
+* [Groups Best Practices][best-practices]
+
+
+[faq]: https://www.linkedin.com/help/linkedin/answer/81284#user-profile
+[best-practices]: https://www.linkedin.com/help/linkedin/answer/61178
